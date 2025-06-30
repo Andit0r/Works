@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWork19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\shapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\shapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\redshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\redshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\hatshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\hatshapedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\ishape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\classdiagram1.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|c:\\temp\\ispp31\\dpm\\labwork19\\task3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D903ABA1-8705-4A43-BC06-A4F91944D2B3}|Task3\\Task3.csproj|solutionrelative:task3\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HatShapeDecorator.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\HatShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\HatShapeDecorator.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\HatShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\HatShapeDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:53:29.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedShapeDecorator.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\RedShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\RedShapeDecorator.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\RedShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\RedShapeDecorator.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:30:16.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShapeDecorator.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\ShapeDecorator.cs",
+              "RelativeDocumentMoniker": "Task3\\ShapeDecorator.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\ShapeDecorator.cs",
+              "RelativeToolTip": "Task3\\ShapeDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:24:45.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:12:29.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "Task3\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\ClassDiagram1.cd",
+              "RelativeToolTip": "Task3\\ClassDiagram1.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-03-14T08:16:01.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Task3\\Rectangle.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Rectangle.cs",
+              "RelativeToolTip": "Task3\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:23:57.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IShape.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\IShape.cs",
+              "RelativeDocumentMoniker": "Task3\\IShape.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\IShape.cs",
+              "RelativeToolTip": "Task3\\IShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:23:19.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Circle.cs",
+              "RelativeDocumentMoniker": "Task3\\Circle.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork19\\Task3\\Circle.cs",
+              "RelativeToolTip": "Task3\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:23:07.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

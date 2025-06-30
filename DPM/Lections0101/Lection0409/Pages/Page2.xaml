@@ -1,0 +1,39 @@
+﻿<Page x:Class="Lection0409.Pages.Page2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Lection0409.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="страница 2">
+
+    <StackPanel>
+        <Label Content="Page2"/>
+        <TabControl>
+            <TabItem Header="123">
+                <Label Content="dfdrgtr"/>
+            </TabItem>
+            <TabItem Header="456">
+                <Label Content="ghtyut56"/>
+            </TabItem>
+            <TabItem Header="123">
+                <Label Content="b ncgf"/>
+            </TabItem>
+            <TabItem>
+                <TabItem.Header>asd</TabItem.Header>
+                <TabItem.Content>
+                    <GroupBox Header="qwerty">
+                        <StackPanel>
+                            <Expander Header="123" FlowDirection="RightToLeft">
+                                <Label Content="Page1"/>
+                            </Expander>
+                            <Expander Header="456" ExpandDirection="Up">789</Expander>
+                            <Expander Header="741" Content="dfdrg" />
+                        </StackPanel>
+                    </GroupBox>
+                </TabItem.Content>
+            </TabItem>
+        </TabControl>
+    </StackPanel>
+</Page>

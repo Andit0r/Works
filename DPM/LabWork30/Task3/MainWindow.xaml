@@ -1,0 +1,22 @@
+﻿<Window x:Class="Task3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task3"
+        mc:Ignorable="d"
+        Title="Задани3" Height="250" Width="800">
+    <StackPanel>
+        <TextBox x:Name="FormatedTextBox" Height="100"/>
+
+        <StackPanel Orientation="Horizontal" RadioButton.Checked="FontSizeRadioButton_Checked">
+            <RadioButton x:Name="FontSize10RadioButton" Content="10"/>
+            <RadioButton x:Name="FontSize20RadioButton" Content="20"/>
+            <RadioButton x:Name="FontSize30RadioButton" Content="30"/>
+        </StackPanel>
+
+        <RadioButton x:Name="LeftAlignmentRadioButton" Content="По левому краю" Checked="LeftAlignmentRadioButton_Checked"/>
+        <RadioButton x:Name="CenterAlignmentRadioButton" Content="По центру" Checked="CenterAlignmentRadioButton_Checked"/>
+        <RadioButton x:Name="RightAlignmentRadioButton" Content="По правому краю" Checked="RightAlignmentRadioButton_Checked"/>
+    </StackPanel>
+</Window>

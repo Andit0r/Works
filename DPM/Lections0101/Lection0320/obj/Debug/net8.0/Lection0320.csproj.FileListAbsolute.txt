@@ -1,0 +1,14 @@
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\bin\Debug\net8.0\Lection0320.exe
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\bin\Debug\net8.0\Lection0320.deps.json
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\bin\Debug\net8.0\Lection0320.runtimeconfig.json
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\bin\Debug\net8.0\Lection0320.dll
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\bin\Debug\net8.0\Lection0320.pdb
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.dll
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\refint\Lection0320.dll
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.pdb
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\Lection0320.genruntimeconfig.cache
+C:\Temp\ispp31\DPM\Lections0101\Lection0320\obj\Debug\net8.0\ref\Lection0320.dll

@@ -1,0 +1,1 @@
+﻿record Pet(string Name, string Breed, int Age);

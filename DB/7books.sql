@@ -1,0 +1,1 @@
+SELECT * FROM ispp3108.book;

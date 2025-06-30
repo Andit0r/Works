@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWork41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D058A5A-E302-4296-BB11-102B9E32FCD2}|EllipseAnimation\\EllipseAnimation.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\ellipseanimation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2D058A5A-E302-4296-BB11-102B9E32FCD2}|EllipseAnimation\\EllipseAnimation.csproj|solutionrelative:ellipseanimation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E774CEF1-1CDC-4F0C-8B09-19BC4F068157}|ChangeColor\\ChangeColor.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\changecolor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E774CEF1-1CDC-4F0C-8B09-19BC4F068157}|ChangeColor\\ChangeColor.csproj|solutionrelative:changecolor\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00510FE9-5557-42A6-AF21-9E72124F0C73}|ButtonAnimationV2\\ButtonAnimationV2.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\buttonanimationv2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00510FE9-5557-42A6-AF21-9E72124F0C73}|ButtonAnimationV2\\ButtonAnimationV2.csproj|solutionrelative:buttonanimationv2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983EE784-7F21-41D4-A1A6-705F9547C60A}|ButtonAnimation\\ButtonAnimation.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\buttonanimation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{983EE784-7F21-41D4-A1A6-705F9547C60A}|ButtonAnimation\\ButtonAnimation.csproj|solutionrelative:buttonanimation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D058A5A-E302-4296-BB11-102B9E32FCD2}|EllipseAnimation\\EllipseAnimation.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\ellipseanimation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D058A5A-E302-4296-BB11-102B9E32FCD2}|EllipseAnimation\\EllipseAnimation.csproj|solutionrelative:ellipseanimation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E774CEF1-1CDC-4F0C-8B09-19BC4F068157}|ChangeColor\\ChangeColor.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\changecolor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E774CEF1-1CDC-4F0C-8B09-19BC4F068157}|ChangeColor\\ChangeColor.csproj|solutionrelative:changecolor\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00510FE9-5557-42A6-AF21-9E72124F0C73}|ButtonAnimationV2\\ButtonAnimationV2.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\buttonanimationv2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00510FE9-5557-42A6-AF21-9E72124F0C73}|ButtonAnimationV2\\ButtonAnimationV2.csproj|solutionrelative:buttonanimationv2\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{983EE784-7F21-41D4-A1A6-705F9547C60A}|ButtonAnimation\\ButtonAnimation.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\buttonanimation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{983EE784-7F21-41D4-A1A6-705F9547C60A}|ButtonAnimation\\ButtonAnimation.csproj|solutionrelative:buttonanimation\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DA25-7B26-4DE0-85D4-585ECC552955}|LabWork41\\Hamburger.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\labwork41\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D6C0DA25-7B26-4DE0-85D4-585ECC552955}|LabWork41\\Hamburger.csproj|solutionrelative:labwork41\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C0DA25-7B26-4DE0-85D4-585ECC552955}|LabWork41\\Hamburger.csproj|c:\\temp\\ispp31\\dpm\\labwork41\\labwork41\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C0DA25-7B26-4DE0-85D4-585ECC552955}|LabWork41\\Hamburger.csproj|solutionrelative:labwork41\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\EllipseAnimation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EllipseAnimation\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\EllipseAnimation\\MainWindow.xaml",
+              "RelativeToolTip": "EllipseAnimation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T06:49:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ChangeColor\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChangeColor\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ChangeColor\\MainWindow.xaml",
+              "RelativeToolTip": "ChangeColor\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T06:42:34.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimationV2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonAnimationV2\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimationV2\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonAnimationV2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T06:37:08.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimationV2\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonAnimationV2\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimationV2\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonAnimationV2\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:37:08.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ButtonAnimation\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimation\\MainWindow.xaml",
+              "RelativeToolTip": "ButtonAnimation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T06:32:56.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ButtonAnimation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ButtonAnimation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ButtonAnimation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:32:56.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\LabWork41\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork41\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\LabWork41\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork41\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-16T06:18:16.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ChangeColor\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChangeColor\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\ChangeColor\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChangeColor\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:42:33.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\EllipseAnimation\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EllipseAnimation\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\EllipseAnimation\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EllipseAnimation\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:49:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork41\\LabWork41\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork41\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork41\\LabWork41\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork41\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T06:18:15.863Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Task1
+build_property.ProjectDir = C:\Temp\ispp31\DPM\LabWork38\Task1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Lab39Task1Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Lab39Task1Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Lab39Task1Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Lab39Task1Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Lab39Task2Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Lab39Task2Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Lab39Task2Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Lab39Task2Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Lab39Task3Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Lab39Task3Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Lab39Task3Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Lab39Task3Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Lab39Task4Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Lab39Task4Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Lab39Task4Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Lab39Task4Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Lab39Task5Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Lab39Task5Page.xaml
+build_metadata.AdditionalFiles.TargetPath = Lab39Task5Page.xaml
+build_metadata.AdditionalFiles.RelativePath = Lab39Task5Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/LabWork38/LabWork38Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.LabWork38.LabWork38Page.xaml
+build_metadata.AdditionalFiles.TargetPath = LabWork38\LabWork38Page.xaml
+build_metadata.AdditionalFiles.RelativePath = LabWork38\LabWork38Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/LabWork38/Task1Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.LabWork38.Task1Page.xaml
+build_metadata.AdditionalFiles.TargetPath = LabWork38\Task1Page.xaml
+build_metadata.AdditionalFiles.RelativePath = LabWork38\Task1Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/LabWork38/Task2Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.LabWork38.Task2Page.xaml
+build_metadata.AdditionalFiles.TargetPath = LabWork38\Task2Page.xaml
+build_metadata.AdditionalFiles.RelativePath = LabWork38\Task2Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/LabWork38/Task3Page.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.LabWork38.Task3Page.xaml
+build_metadata.AdditionalFiles.TargetPath = LabWork38\Task3Page.xaml
+build_metadata.AdditionalFiles.RelativePath = LabWork38\Task3Page.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/LabWork39.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.LabWork39.xaml
+build_metadata.AdditionalFiles.TargetPath = LabWork39.xaml
+build_metadata.AdditionalFiles.RelativePath = LabWork39.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Temp/ispp31/DPM/LabWork38/Task1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Task1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

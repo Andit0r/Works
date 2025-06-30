@@ -1,0 +1,14 @@
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\bin\Debug\net9.0\Lecture0304.exe
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\bin\Debug\net9.0\Lecture0304.deps.json
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\bin\Debug\net9.0\Lecture0304.runtimeconfig.json
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\bin\Debug\net9.0\Lecture0304.dll
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\bin\Debug\net9.0\Lecture0304.pdb
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.dll
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\refint\Lecture0304.dll
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.pdb
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\Lecture0304.genruntimeconfig.cache
+C:\Temp\ispp31\DPM\Lections0101\Lecture0304\obj\Debug\net9.0\ref\Lecture0304.dll

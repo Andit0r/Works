@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Task1.LabWork38Page"
+             Title="LabWork38Page">
+    <StackLayout>
+        <Button x:Name="Task1Button" Text="Задание 1" Clicked="Task1Button_Clicked"/>
+        <Button x:Name="Task2Button" Text="Задание 2" Clicked="Task2Button_Clicked"/>
+        <Button x:Name="Task3Button" Text="Задание 3" Clicked="Task3Button_Clicked"/>
+    </StackLayout>
+</ContentPage>

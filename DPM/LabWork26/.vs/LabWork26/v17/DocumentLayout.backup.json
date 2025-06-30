@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWork26\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|c:\\temp\\ispp31\\dpm\\labwork26\\labwork26\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|solutionrelative:labwork26\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|c:\\temp\\ispp31\\dpm\\labwork26\\labwork26\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|solutionrelative:labwork26\\window5.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|c:\\temp\\ispp31\\dpm\\labwork26\\labwork26\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|solutionrelative:labwork26\\window3.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|c:\\temp\\ispp31\\dpm\\labwork26\\labwork26\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|solutionrelative:labwork26\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|c:\\temp\\ispp31\\dpm\\labwork26\\labwork26\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{C01EB5D1-CAC1-477E-800A-F97C58E6FEA0}|LabWork26\\LabWork26.csproj|solutionrelative:labwork26\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window1.xaml",
+              "RelativeDocumentMoniker": "LabWork26\\Window1.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window1.xaml",
+              "RelativeToolTip": "LabWork26\\Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T08:26:19.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window5.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window5.xaml",
+              "RelativeDocumentMoniker": "LabWork26\\Window5.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window5.xaml",
+              "RelativeToolTip": "LabWork26\\Window5.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T08:25:20.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window4.xaml",
+              "RelativeDocumentMoniker": "LabWork26\\Window4.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window4.xaml",
+              "RelativeToolTip": "LabWork26\\Window4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T08:13:32.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window3.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window3.xaml",
+              "RelativeDocumentMoniker": "LabWork26\\Window3.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\Window3.xaml",
+              "RelativeToolTip": "LabWork26\\Window3.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T08:00:55.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork26\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork26\\LabWork26\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork26\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-08T07:26:21.458Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

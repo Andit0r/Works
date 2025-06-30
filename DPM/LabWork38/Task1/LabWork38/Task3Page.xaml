@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Task1.Task3Page"
+             Title="Task3Page">
+    <StackLayout>
+        <Label x:Name="InfoLabel"/>
+
+        <ListView x:Name="FileListView">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <Grid Padding="5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                    <ColumnDefinition/>
+                                </Grid.ColumnDefinitions>
+                                <Label Text="{Binding Name}" Grid.Column="0"/>
+                                <Label Text="{Binding Length}" Grid.Column="1"/>
+                                <Label Text="{Binding CreationTime}" Grid.Column="2"/>
+                            </Grid>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+
+        <StackLayout Orientation="Horizontal">
+            <Button x:Name="FirstPageButton" Text="⏮" Clicked="FirstPageButton_Clicked"/>
+            <Button x:Name="PreviousPageButton" Text="◀" Clicked="PreviousPageButton_Clicked"/>
+            <Entry x:Name="PageNumberEntry" 
+                   WidthRequest="200" 
+                   Placeholder="Номер страницы" 
+                   Keyboard="Numeric" 
+                   TextChanged="PageNumberEntry_TextChanged"
+                   HorizontalTextAlignment="Center"/>
+            <Button x:Name="NextPageButton" Text="▶" Clicked="NextPageButton_Clicked"/>
+            <Button x:Name="LastPageButton" Text="⏭" Clicked="LastPageButton_Clicked"/>
+        </StackLayout>
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="F:LabWorkLibrary.Maths.BinaryFactor">
+            <summary>
+            Бинарный коэффициент
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Add(System.Double,System.Int32)">
+            <summary>
+            Вычисление суммы двух чисел
+            </summary>
+            <param name="value1">Первое число</param>
+            <param name="value2">Второе число</param>
+            <returns>Значение суммы двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Subtract(System.Double,System.Int32)">
+            <summary>
+            Вычисление разности двух чисел
+            </summary>
+            <param name="value1">Первое число</param>
+            <param name="value2">Второе число</param>
+            <returns>Значение разности двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Multiply(System.Double,System.Int32)">
+            <summary>
+            Вычисление произведения двух чисел
+            </summary>
+            <param name="value1">Первое число</param>
+            <param name="value2">Второе число</param>
+            <returns>Значение произведения двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Divide(System.Double,System.Int32)">
+            <summary>
+            Вычисление частного двух чисел
+            </summary>
+            <param name="value1">Первое число</param>
+            <param name="value2">Второе число</param>
+            <returns>Значение частного двух чисел</returns>
+            <exception cref="T:System.DivideByZeroException">Нельзя делить на ноль</exception>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetRectangleArea(System.Double,System.Int32)">
+            <summary>
+            Вычисление площади прямоугольника
+            </summary>
+            <param name="length">Длина</param>
+            <param name="width">Ширина</param>
+            <returns>Площадь прямоугольника</returns>
+            /// <exception cref="T:System.ArgumentOutOfRangeException">Нельзя использовать отрицательные значения</exception>
+        </member>
+    </members>
+</doc>

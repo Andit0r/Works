@@ -1,0 +1,15 @@
+﻿<Application x:Class="LabWork32.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:LabWork32"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <Style TargetType="StackPanel">
+            <Setter Property="Width" Value="Auto"/>
+        </Style>
+
+        <DataTemplate x:Key="CategoriesTemplate">
+            <StackPanel Orientation="Horizontal"/>
+        </DataTemplate>
+    </Application.Resources>
+</Application>

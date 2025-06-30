@@ -1,0 +1,1 @@
+﻿delegate void OperationDelegate(int value1, int value2);

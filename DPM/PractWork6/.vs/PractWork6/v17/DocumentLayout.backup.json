@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\PractWork6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\counter.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\counter.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\counter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\counter.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\timer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\timer.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|c:\\temp\\ispp31\\dpm\\practwork6\\practwork6\\timer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F8E12C12-92EA-461A-9D32-24C06345FE68}|PractWork6\\PractWork6.csproj|solutionrelative:practwork6\\timer.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Counter.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork6\\Counter.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Counter.xaml.cs",
+              "RelativeToolTip": "PractWork6\\Counter.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:30:51.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Counter.xaml",
+              "RelativeDocumentMoniker": "PractWork6\\Counter.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Counter.xaml",
+              "RelativeToolTip": "PractWork6\\Counter.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T10:28:52.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Timer.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork6\\Timer.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Timer.xaml.cs",
+              "RelativeToolTip": "PractWork6\\Timer.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:02:38.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Timer.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Timer.xaml",
+              "RelativeDocumentMoniker": "PractWork6\\Timer.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\Timer.xaml",
+              "RelativeToolTip": "PractWork6\\Timer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T10:01:55.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PractWork6\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\MainWindow.xaml",
+              "RelativeToolTip": "PractWork6\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-31T09:25:52.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PractWork6\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\PractWork6\\PractWork6\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PractWork6\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:25:51.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

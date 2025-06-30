@@ -1,0 +1,20 @@
+﻿void DocumentWork()
+{
+    var app = new Псевдоним.Application(); // запуск excel
+    app.Visible = true;
+
+
+    var fileName = Path.Combine(путь, "имяФайла"); 
+    var document = app.КоллекцияДокументов.Open(fileName);
+    //var document = app.КоллекцияДокументов.Add();
+
+    // ... работа с документом (чтение/редактирование)
+
+    //document.Save(); // для открытых
+
+    var saveFileName = ...;
+    //document.SaveAs(saveFileName);
+    document.SaveAs(saveFileName, Псевдоним.Формат.ФорматДляСохранения);
+
+    app.Quit(); // + может потребовать реализация Disposable-паттерна
+}

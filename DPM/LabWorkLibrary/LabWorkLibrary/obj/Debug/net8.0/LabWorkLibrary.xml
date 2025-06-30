@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LabWorkLibrary</name>
+    </assembly>
+    <members>
+        <member name="T:LabWorkLibrary.Maths">
+            <summary>
+            Содержит константу и методы для математических операций
+            </summary>
+        </member>
+        <member name="F:LabWorkLibrary.Maths.BinaryFactor">
+            <summary>
+            Бинарный коэффициент
+            </summary>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Add(System.Double,System.Int32)">
+            <summary>
+            Вычислить сумму двух чисел
+            </summary>
+            <param name="value1">Первое слагаемое</param>
+            <param name="value2">Второе слагаемое</param>
+            <returns>Сумма двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Subtract(System.Double,System.Int32)">
+            <summary>
+            Вычислить разность двух чисел
+            </summary>
+            <param name="value1">Уменьшаемое</param>
+            <param name="value2">Вычитаемое</param>
+            <returns>Разность двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Multiply(System.Double,System.Int32)">
+            <summary>
+            Вычислить произведение двух чисел
+            </summary>
+            <param name="value1">Первый множитель</param>
+            <param name="value2">Второй множитель</param>
+            <returns>Произведение двух чисел</returns>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.Divide(System.Double,System.Int32)">
+            <summary>
+            Вычислить частное двух чисел
+            </summary>
+            <param name="value1">Делимое</param>
+            <param name="value2">Делитель</param>
+            <returns>Частное чисел</returns>
+            <exception cref="T:System.DivideByZeroException">Нельзя делить на ноль</exception>
+        </member>
+        <member name="M:LabWorkLibrary.Maths.GetRectangleArea(System.Double,System.Int32)">
+            <summary>
+            Вычислить площадь прямоугольника
+            </summary>
+            <param name="length">Длина</param>
+            <param name="width">Ширина</param>
+            <returns>Площадь прямоугольника</returns>
+            <exception cref="T:System.ArgumentOutOfRangeException">Нельзя использовать отрицательные значения</exception>
+        </member>
+        <member name="T:Role">
+            <summary>
+            Содержит роли
+            </summary>
+        </member>
+        <member name="T:User">
+            <summary>
+            Содержит информацию о пользователе
+            </summary>
+        </member>
+    </members>
+</doc>

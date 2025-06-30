@@ -1,0 +1,13 @@
+﻿<Window x:Class="Task4.ManagerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task4"
+        mc:Ignorable="d"
+        Title="Панель менеджера" Height="100" Width="400" MinHeight="100" MinWidth="400"
+        WindowStartupLocation="CenterScreen">
+    <DockPanel>
+        <Button x:Name="BackButton" Content="Назад" IsCancel="True" Click="BackButton_Click"/>
+    </DockPanel>
+</Window>

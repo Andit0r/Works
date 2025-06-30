@@ -1,0 +1,12 @@
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\bin\Debug\net8.0\SqliteLibrary.deps.json
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\bin\Debug\net8.0\SqliteLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\bin\Debug\net8.0\SqliteLibrary.pdb
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.csproj.AssemblyReference.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\refint\SqliteLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\SqliteLibrary.pdb
+C:\Temp\ispp31\DPM\DbLabWorks\SqliteLibrary\obj\Debug\net8.0\ref\SqliteLibrary.dll

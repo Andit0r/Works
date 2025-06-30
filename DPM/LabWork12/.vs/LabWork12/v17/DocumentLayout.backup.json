@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\LabWork12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\labwork12\\labwork12\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\labwork12\\labwork12\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\labwork12\\labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|c:\\temp\\ispp31\\labwork12\\labwork12\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D76CF248-65A6-437B-995F-115A51D57176}|LabWork12\\LabWork12.csproj|solutionrelative:labwork12\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Patient.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Patient.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Patient.cs",
+              "RelativeToolTip": "LabWork12\\Patient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:39:21.233Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pet.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Pet.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Pet.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Pet.cs",
+              "RelativeToolTip": "LabWork12\\Pet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:52:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Category.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Category.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Category.cs",
+              "RelativeToolTip": "LabWork12\\Category.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:47:38.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork12\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork12\\LabWork12\\Program.cs",
+              "RelativeToolTip": "LabWork12\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:32:50.604Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

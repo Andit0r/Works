@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWork27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\settingspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\settingspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\registrationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\authorizationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|c:\\temp\\ispp31\\dpm\\labwork27\\labwork27\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F1A899B8-7223-4A93-81A1-F6B2E0D8654D}|LabWork27\\LabWork27.csproj|solutionrelative:labwork27\\pages\\authorizationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\RegistrationPage.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\RegistrationPage.xaml",
+              "RelativeToolTip": "LabWork27\\Pages\\RegistrationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T05:44:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\MainWindow.xaml.cs",
+              "RelativeToolTip": "LabWork27\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T05:32:21.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "LabWork27\\Pages\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:19:49.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\MainWindow.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\MainWindow.xaml",
+              "RelativeToolTip": "LabWork27\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T05:32:22.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Manager.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Manager.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Manager.cs",
+              "RelativeToolTip": "LabWork27\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:02:15.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorizationPage.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\AuthorizationPage.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\AuthorizationPage.xaml.cs",
+              "RelativeToolTip": "LabWork27\\Pages\\AuthorizationPage.xaml.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:17:18.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "LabWork27\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:04:48.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SettingsPage.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\SettingsPage.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\SettingsPage.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\SettingsPage.xaml",
+              "RelativeToolTip": "LabWork27\\Pages\\SettingsPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T05:49:24.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SettingsPage.xaml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\SettingsPage.xaml.cs",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\SettingsPage.xaml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\SettingsPage.xaml.cs",
+              "RelativeToolTip": "LabWork27\\Pages\\SettingsPage.xaml.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwCAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:34:25.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "LabWork27\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T05:35:03.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorizationPage.xaml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\AuthorizationPage.xaml",
+              "RelativeDocumentMoniker": "LabWork27\\Pages\\AuthorizationPage.xaml",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork27\\LabWork27\\Pages\\AuthorizationPage.xaml",
+              "RelativeToolTip": "LabWork27\\Pages\\AuthorizationPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-18T06:09:09.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

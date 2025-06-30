@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|c:\\temp\\ispp31\\dpm\\labworklibrary\\labworklibrary\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\maths.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|c:\\temp\\ispp31\\dpm\\labworklibrary\\labworklibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|c:\\temp\\ispp31\\dpm\\labworklibrary\\labworklibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42ED07FE-368E-4A5D-9867-C48153F5AF31}|LabWorkLibrary\\LabWorkLibrary.csproj|solutionrelative:labworklibrary\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 243,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\User.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\User.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\User.cs",
+              "RelativeToolTip": "LabWorkLibrary\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:50:18.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\Role.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\Role.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\Role.cs",
+              "RelativeToolTip": "LabWorkLibrary\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:48:53.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Maths.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\Maths.cs",
+              "RelativeDocumentMoniker": "LabWorkLibrary\\Maths.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWorkLibrary\\LabWorkLibrary\\Maths.cs",
+              "RelativeToolTip": "LabWorkLibrary\\Maths.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T10:02:14.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

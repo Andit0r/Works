@@ -1,0 +1,7 @@
+[ 
+	{ "login": "user1", "password": "password123" },
+	{ "login": "user2", "password": "qwerty456" },
+	{ "login": "user3", "password": "abcde789" },
+	{ "login": "user4", "password": "letmein101" },
+	{ "login": "user5", "password": "welcome2025" }
+]

@@ -1,0 +1,12 @@
+C:\Temp\ispp31\DPM\LabWork47\Test\bin\Debug\net8.0\DbConnection.deps.json
+C:\Temp\ispp31\DPM\LabWork47\Test\bin\Debug\net8.0\DbConnection.dll
+C:\Temp\ispp31\DPM\LabWork47\Test\bin\Debug\net8.0\DbConnection.pdb
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.csproj.AssemblyReference.cache
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.dll
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\refint\DbConnection.dll
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\DbConnection.pdb
+C:\Temp\ispp31\DPM\LabWork47\Test\obj\Debug\net8.0\ref\DbConnection.dll

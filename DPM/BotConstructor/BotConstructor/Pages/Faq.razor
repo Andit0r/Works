@@ -1,0 +1,123 @@
+﻿@page "/faq"
+@using BotConstructor.Data
+@using Microsoft.EntityFrameworkCore
+@inject BotConstructor.Data.ApplicationDbContext DbContext
+
+<h3>FAQ Редактор</h3>
+
+<button @onclick="AddNew">Добавить вопрос</button>
+
+@if (faqItems == null)
+{
+    <p><em>Загрузка...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Вопрос</th>
+                <th>Ответ</th>
+                <th>Действия</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in faqItems)
+            {
+                <tr>
+                    <td>
+                        @if (editItem == item)
+                        {
+                            <input @bind="editItem.Question" />
+                        }
+                        else
+                        {
+                            @item.Question
+                        }
+                    </td>
+
+                    <td>
+                        @if (editItem == item)
+                        {
+                            <textarea @bind="editItem.Answer"></textarea>
+                        }
+                        else
+                        {
+                            @item.Answer
+                        }
+                    </td>
+
+                    <td>
+                        @if (editItem == item)
+                        {
+                            <button @onclick="() => Save(item)">Сохранить</button>
+                            <button @onclick="CancelEdit">Отмена</button>
+                        }
+                        else
+                        {
+                            <button @onclick="() => Edit(item)">Редактировать</button>
+                            <button @onclick="() => Delete(item)">Удалить</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<FaqItem> faqItems;
+    private FaqItem editItem;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadFaqItems();
+    }
+
+    void AddNew()
+    {
+        var newItem = new FaqItem { Question = "", Answer = "" };
+        faqItems.Insert(0, newItem);
+        editItem = newItem;
+    }
+
+    async Task LoadFaqItems()
+    {
+        faqItems = await DbContext.FaqItems.ToListAsync();
+    }
+
+    async Task Save(FaqItem item)
+    {
+        if (item.Id == 0)
+        {
+            DbContext.FaqItems.Add(item);
+        }
+        else
+        {
+            DbContext.FaqItems.Update(item);
+        }
+        await DbContext.SaveChangesAsync();
+        await LoadFaqItems();
+        editItem = null;
+    }
+
+    async Task Delete(FaqItem item)
+    {
+        if (item.Id != 0)
+        {
+            DbContext.FaqItems.Remove(item);
+            await DbContext.SaveChangesAsync();
+        }
+        await LoadFaqItems();
+    }
+
+    void CancelEdit()
+    {
+        if (editItem.Id == 0)
+        {
+            faqItems.Remove(editItem);
+        }
+        editItem = null;
+    }
+
+}

@@ -1,0 +1,26 @@
+﻿<Window x:Class="LabWork26.Window5"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LabWork26"
+        mc:Ignorable="d"
+        Title="Window5" Height="450" Width="800">
+    <DockPanel>
+        <WrapPanel DockPanel.Dock="Top" Background="MediumSeaGreen">
+            <Button Content="Задание 1" Width="200" Name="Task1Button"/>
+            <Button Content="Задание 2" Width="200" Name="Task2Button"/>
+            <Button Content="Задание 3" Width="200" Name="Task3Button"/>
+            <Button Content="Задание 4" Width="200" Name="Task4Button"/>
+            <Button Content="Задание 5" Width="200" Name="Task5Button"/>
+        </WrapPanel>
+        <Label Content="Подвал" Background="LightGoldenrodYellow" DockPanel.Dock="Bottom"/>
+        <Label Content="Меню" Background="LightGreen" DockPanel.Dock="Left"/>
+        <Canvas Background="PaleGreen">
+            <Image Source="https://avatars.mds.yandex.net/get-mpic/5246132/img_id3286488310212647168.jpeg/orig" Width="150"/>
+            <Image Source="https://avatars.mds.yandex.net/get-mpic/6354718/img_id4580508744352864262.jpeg/orig" Width="150" Canvas.Bottom="0"/>
+            <Image Source="https://cdnstatic.rg.ru/uploads/images/2022/09/25/rian_8202543hrru_805.jpg" Width="150" Canvas.Right="0"/>
+            <Image Source="https://cdnmedia.220-volt.ru/content/products/79/79516/images/original/n1200x800_q80/1.jpeg" Width="150" Canvas.Right="0" Canvas.Bottom="0"/>
+        </Canvas>
+    </DockPanel>
+</Window>

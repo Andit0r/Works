@@ -1,0 +1,49 @@
+﻿<Window x:Class="Picture.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Picture"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Canvas>
+        <Canvas.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FF464646"/>
+                <GradientStop Color="#FFB700FF" Offset="1"/>
+            </LinearGradientBrush>
+        </Canvas.Background>
+        <Ellipse Width="300" Height="300" Canvas.Left="250" Canvas.Top="67">
+            <Ellipse.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Red"/>
+                    <GradientStop Color="#FFFFC700" Offset="0.522"/>
+                </LinearGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Polyline Stroke="#FF9A4D00" StrokeThickness="5" Points="0, 0, 50, 30, 80, 60" Canvas.Left="297" Canvas.Top="150" RenderTransformOrigin="0.5,0.5">
+            <Polyline.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-14.421"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Polyline.RenderTransform>
+        </Polyline>
+        <Polyline Stroke="#FF9A4D00" StrokeThickness="5" Points="0, 0, 50, 30, 80, 60" Canvas.Left="429" Canvas.Top="146" RenderTransformOrigin="0.5,0.5" Width="81">
+            <Polyline.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="13.03"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Polyline.RenderTransform>
+        </Polyline>
+        <Ellipse Width="30" Height="60" Canvas.Left="327" Canvas.Top="197" Fill="#FF9A4D00" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Ellipse Width="30" Height="60" Canvas.Left="442" Canvas.Top="197" Fill="#FF9A4D00" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Polygon Points="0, 90, 150, 0, 300, 90" Canvas.Left="250" Canvas.Top="32" Fill="#FF9A4D00" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Rectangle Width="200" Height="70" Canvas.Left="300" Canvas.Top="273" Fill="Black" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Canvas>
+</Window>

@@ -1,0 +1,359 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DB\\DbLections\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ADF725B-C4FA-4FA0-8F5D-BEAD6FAE8B73}|WebApiServices\\WebApiServices.csproj|c:\\temp\\ispp31\\db\\dblections\\webapiservices\\reviewsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ADF725B-C4FA-4FA0-8F5D-BEAD6FAE8B73}|WebApiServices\\WebApiServices.csproj|solutionrelative:webapiservices\\reviewsapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFFF8B7-4453-489E-96DE-456F632BCF2D}|Lection0605\\Lection0605.csproj|c:\\temp\\ispp31\\db\\dblections\\lection0605\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFFF8B7-4453-489E-96DE-456F632BCF2D}|Lection0605\\Lection0605.csproj|solutionrelative:lection0605\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|c:\\temp\\ispp31\\db\\dblections\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\database\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\database\\databasefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\services\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\services\\reviewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|c:\\temp\\ispp31\\db\\dblections\\webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFFF8B7-4453-489E-96DE-456F632BCF2D}|Lection0605\\Lection0605.csproj|c:\\temp\\ispp31\\db\\dblections\\lection0605\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFFF8B7-4453-489E-96DE-456F632BCF2D}|Lection0605\\Lection0605.csproj|solutionrelative:lection0605\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\repositries\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\repositries\\reviewrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\repositries\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\repositries\\reviewsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|c:\\temp\\ispp31\\db\\dblections\\dblibrary\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CF3A816-C7A3-4F42-AC68-819BC121A16C}|DbLibrary\\DbLibrary.csproj|solutionrelative:dblibrary\\databasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|c:\\temp\\ispp31\\db\\dblections\\webapp\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DCE77238-AA1C-4019-BCF9-4C2DCD5F6E92}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E9F817-2524-44D0-99CC-5103648D40C1}|ConsoleApp2\\ConsoleApp2.csproj|c:\\temp\\ispp31\\db\\dblections\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E9F817-2524-44D0-99CC-5103648D40C1}|ConsoleApp2\\ConsoleApp2.csproj|solutionrelative:consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9537C4F-839E-4D24-9655-D4546D9D0CF6}|ConsoleApp1\\ConsoleApp1.csproj|c:\\temp\\ispp31\\db\\dblections\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9537C4F-839E-4D24-9655-D4546D9D0CF6}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|c:\\temp\\ispp31\\db\\dblections\\webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A4CE54E-2B61-4988-8F7C-AEDB6AEDC146}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 302,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:38:27.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReviewsService.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Services\\ReviewsService.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Services\\ReviewsService.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Services\\ReviewsService.cs",
+              "RelativeToolTip": "DbLibrary\\Services\\ReviewsService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAuwBwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:19:29.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\Lection0605\\Program.cs",
+              "RelativeDocumentMoniker": "Lection0605\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\Lection0605\\Program.cs",
+              "RelativeToolTip": "Lection0605\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:57:59.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:58:37.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseFactory.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Database\\DatabaseFactory.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Database\\DatabaseFactory.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Database\\DatabaseFactory.cs",
+              "RelativeToolTip": "DbLibrary\\Database\\DatabaseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:35:02.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\Lection0605\\Game.cs",
+              "RelativeDocumentMoniker": "Lection0605\\Game.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\Lection0605\\Game.cs",
+              "RelativeToolTip": "Lection0605\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:27:59.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Models\\Review.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Models\\Review.cs",
+              "RelativeToolTip": "DbLibrary\\Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:45:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReviewsApiService.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApiServices\\ReviewsApiService.cs",
+              "RelativeDocumentMoniker": "WebApiServices\\ReviewsApiService.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApiServices\\ReviewsApiService.cs",
+              "RelativeToolTip": "WebApiServices\\ReviewsApiService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:07:44.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:40:50.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReviewRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Repositries\\ReviewRepository.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Repositries\\ReviewRepository.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Repositries\\ReviewRepository.cs",
+              "RelativeToolTip": "DbLibrary\\Repositries\\ReviewRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:34:45.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T07:45:51.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewsRepository.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Repositries\\ReviewsRepository.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\Repositries\\ReviewsRepository.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\Repositries\\ReviewsRepository.cs",
+              "RelativeToolTip": "DbLibrary\\Repositries\\ReviewsRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAxwB0AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T05:51:32.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBaseContext.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\DataBaseContext.cs",
+              "RelativeDocumentMoniker": "DbLibrary\\DataBaseContext.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\DbLibrary\\DataBaseContext.cs",
+              "RelativeToolTip": "DbLibrary\\DataBaseContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowE4AAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:55:49.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Details.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T08:04:23.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Create.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-11T08:03:31.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:24:25.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T07:46:18.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:06:24.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApp\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "WebApp\\Pages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:08:19.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:07:57.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DB\\DbLections\\WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:37:53.257Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

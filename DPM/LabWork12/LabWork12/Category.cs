@@ -1,0 +1,5 @@
+﻿enum Category
+{
+    Adult,
+    Child
+}

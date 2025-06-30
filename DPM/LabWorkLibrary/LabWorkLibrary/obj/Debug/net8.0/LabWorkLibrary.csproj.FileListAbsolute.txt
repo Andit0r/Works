@@ -1,0 +1,13 @@
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\bin\Debug\net8.0\LabWorkLibrary.deps.json
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\bin\Debug\net8.0\LabWorkLibrary.dll
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\bin\Debug\net8.0\LabWorkLibrary.pdb
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.dll
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\refint\LabWorkLibrary.dll
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.pdb
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\ref\LabWorkLibrary.dll
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\bin\Debug\net8.0\LabWorkLibrary.xml
+C:\Temp\ispp31\DPM\LabWorkLibrary\LabWorkLibrary\obj\Debug\net8.0\LabWorkLibrary.xml

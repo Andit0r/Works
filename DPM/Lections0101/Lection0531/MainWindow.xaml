@@ -1,0 +1,46 @@
+﻿<Window x:Class="Lection0531.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection0531"
+        
+        xmlns:controlsLib="clr-namespace:WpfControlLibrary;assembly=WpfControlLibrary"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="150" Width="600">
+
+    <Window.Resources>
+        <ControlTemplate TargetType="Button" x:Key="CustomButton">
+            <Border x:Name="border" Height="50"
+                    Background="{TemplateBinding Background}"
+                    Cursor="Hand"
+                    BorderBrush="Gray">
+                <ContentPresenter x:Name="content"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"/>
+            </Border>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter TargetName="border" Property="Background" Value="Yellow"/>
+                    <Setter TargetName="content" Property="HorizontalAlignment" Value="Left"/>
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+    </Window.Resources>
+    
+    <StackPanel Cursor="">
+        <controlsLib:Entry Hint="123"/>
+
+        <local:Entry Edited="Entry_Edited" Deleted="Entry_Deleted" Hint="Логин" x:Name="LoginEntry"
+                     MaxLength="5"/>
+
+        <local:CustomButton/>
+
+        <TextBlock Text="{Binding ElementName=LoginEntry, Path=Hint}"/>
+        <TextBox Text="12345"/>
+        <Button Content="ok" Template="{StaticResource CustomButton}" Background="DarkGray" Cursor=""/>
+        <Button Content="cancel" Template="{StaticResource CustomButton}" Background="Red"/>
+        <Button Content="cancel" Cursor="" />
+    </StackPanel>
+</Window>

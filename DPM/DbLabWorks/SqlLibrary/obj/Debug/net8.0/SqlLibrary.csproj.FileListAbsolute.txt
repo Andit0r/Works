@@ -1,0 +1,12 @@
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\bin\Debug\net8.0\SqlLibrary.deps.json
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\bin\Debug\net8.0\SqlLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\bin\Debug\net8.0\SqlLibrary.pdb
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.csproj.AssemblyReference.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\refint\SqlLibrary.dll
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\SqlLibrary.pdb
+C:\Temp\ispp31\DPM\DbLabWorks\SqlLibrary\obj\Debug\net8.0\ref\SqlLibrary.dll

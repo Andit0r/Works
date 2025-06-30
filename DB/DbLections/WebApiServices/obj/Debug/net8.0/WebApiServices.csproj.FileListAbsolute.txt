@@ -1,0 +1,15 @@
+C:\Temp\ispp31\DB\DbLections\WebApiServices\bin\Debug\net8.0\WebApiServices.deps.json
+C:\Temp\ispp31\DB\DbLections\WebApiServices\bin\Debug\net8.0\WebApiServices.dll
+C:\Temp\ispp31\DB\DbLections\WebApiServices\bin\Debug\net8.0\WebApiServices.pdb
+C:\Temp\ispp31\DB\DbLections\WebApiServices\bin\Debug\net8.0\DbLibrary.dll
+C:\Temp\ispp31\DB\DbLections\WebApiServices\bin\Debug\net8.0\DbLibrary.pdb
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.csproj.AssemblyReference.cache
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.AssemblyInfo.cs
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiSe.6B469CD1.Up2Date
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.dll
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\refint\WebApiServices.dll
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\WebApiServices.pdb
+C:\Temp\ispp31\DB\DbLections\WebApiServices\obj\Debug\net8.0\ref\WebApiServices.dll

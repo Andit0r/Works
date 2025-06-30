@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="PdfDocument">
+    <Position X="1.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Application" Collapsed="true">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DocxDocument" Collapsed="true">
+    <Position X="5.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Document">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABA=</HashCode>
+      <FileName>IUIFactory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WindowsButton" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>WindowsButton.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.Logger">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAAAAAABAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Logger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.QueryBuilder">
+    <Position X="2.75" Y="8.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAIAAAEAAAAAAAAAAAAEAgACAAAAAQCAAAAA=</HashCode>
+      <FileName>QueryBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.CardPayment">
+    <Position X="2" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardPayment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.CreditPayment">
+    <Position X="5.5" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CardPayment.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.PaymentProcessor">
+    <Position X="4.25" Y="15" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PaymentProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.Blogger">
+    <Position X="3" Y="17.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Blogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.Subscriber">
+    <Position X="6" Y="17.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subscriber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.TemperatureDisplay">
+    <Position X="3" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TemperatureDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.PressureDisplay">
+    <Position X="5.75" Y="22.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PressureDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.Sensor">
+    <Position X="8" Y="20" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAhAAAAAAAAAAAAAAAAAAAAAAAAAAgQkAAA=</HashCode>
+      <FileName>Sensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.OldSensor">
+    <Position X="4" Y="25.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>OldSensor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.OldSensorAdapter">
+    <Position X="5.25" Y="26.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OldSensorAdapter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.DataService">
+    <Position X="3.75" Y="30.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.LoggingDecorator">
+    <Position X="6.25" Y="30.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LoggingDecorator.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.BasePizza">
+    <Position X="9.25" Y="34.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasePizza.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.PizzaIngredient">
+    <Position X="6" Y="36" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>PizzaIngredient.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Lection0312.Cheese">
+    <Position X="9.5" Y="36" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cheese.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.Tomato">
+    <Position X="10" Y="38.25" Width="1.5" />
+    <InheritanceLine Type="Lection0312.PizzaIngredient" ManuallyRouted="true" FixedFromPoint="true">
+      <Path>
+        <Point X="8" Y="36.5" />
+        <Point X="8.082" Y="36.5" />
+        <Point X="8.082" Y="36.499" />
+        <Point X="8.502" Y="36.499" />
+        <Point X="8.502" Y="38.809" />
+        <Point X="10" Y="38.809" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tomato.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Lection0312.Peperoni">
+    <Position X="7.75" Y="39.5" Width="1.5" />
+    <InheritanceLine Type="Lection0312.PizzaIngredient" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="8" Y="36.5" />
+        <Point X="8.509" Y="36.5" />
+        <Point X="8.509" Y="39.214" />
+        <Point X="8.5" Y="39.214" />
+        <Point X="8.5" Y="39.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Peperoni.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="IDocument">
+    <Position X="3.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IUIFactory">
+    <Position X="4.5" Y="4" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IUIFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="IButton">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>IButton.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lection0312.IPaymentStrategy">
+    <Position X="3.75" Y="12" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPaymentStrategy.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lection0312.IObserver">
+    <Position X="3.75" Y="20.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IObserver.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lection0312.IDevice">
+    <Position X="7" Y="25.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>INewDevice.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lection0312.IService">
+    <Position X="5.75" Y="29.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Lection0312.IPizza">
+    <Position X="6" Y="34.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPizza.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

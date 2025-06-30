@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\LabWork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AE8BE5-CBBA-49A9-9D76-298A4CAF5C55}|Task3\\Task3.csproj|c:\\temp\\ispp31\\labwork1\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AE8BE5-CBBA-49A9-9D76-298A4CAF5C55}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C433B0-8625-42DB-BE4B-E69D41BA3B0B}|Task2\\Task2.csproj|c:\\temp\\ispp31\\labwork1\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C433B0-8625-42DB-BE4B-E69D41BA3B0B}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09F780F7-B0FA-40EC-A515-482598FB2DFE}|LabWork1\\Task1.csproj|c:\\temp\\ispp31\\labwork1\\labwork1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09F780F7-B0FA-40EC-A515-482598FB2DFE}|LabWork1\\Task1.csproj|solutionrelative:labwork1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork1\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork1\\Task3\\Program.cs*",
+              "RelativeToolTip": "Task3\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:33:04.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork1\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork1\\Task2\\Program.cs*",
+              "RelativeToolTip": "Task2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T11:02:08.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork1\\LabWork1\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork1\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork1\\LabWork1\\Program.cs",
+              "RelativeToolTip": "LabWork1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T10:36:52.754Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

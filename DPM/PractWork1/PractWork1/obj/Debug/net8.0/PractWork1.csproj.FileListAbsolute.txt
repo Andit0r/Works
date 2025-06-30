@@ -1,0 +1,14 @@
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\bin\Debug\net8.0\PractWork1.exe
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\bin\Debug\net8.0\PractWork1.deps.json
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\bin\Debug\net8.0\PractWork1.runtimeconfig.json
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\bin\Debug\net8.0\PractWork1.dll
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\bin\Debug\net8.0\PractWork1.pdb
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.AssemblyInfo.cs
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.dll
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\refint\PractWork1.dll
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.pdb
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\PractWork1.genruntimeconfig.cache
+C:\Temp\ispp31\DPM\PractWork1\PractWork1\obj\Debug\net8.0\ref\PractWork1.dll

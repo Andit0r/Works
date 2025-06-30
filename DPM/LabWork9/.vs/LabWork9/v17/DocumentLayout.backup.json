@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\LabWork9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp31\\labwork9\\labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp31\\labwork9\\labwork9\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp31\\labwork9\\labwork9\\equilateraltriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\equilateraltriangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp31\\labwork9\\labwork9\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\ifigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|c:\\temp\\ispp31\\labwork9\\labwork9\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10986AF2-D9EC-45A2-B50A-A65F58D2BCDA}|LabWork9\\LabWork9.csproj|solutionrelative:labwork9\\iprinter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFigure.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\IFigure.cs",
+              "RelativeDocumentMoniker": "LabWork9\\IFigure.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\IFigure.cs",
+              "RelativeToolTip": "LabWork9\\IFigure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:48:10.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EquilateralTriangle.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\EquilateralTriangle.cs",
+              "RelativeDocumentMoniker": "LabWork9\\EquilateralTriangle.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\EquilateralTriangle.cs",
+              "RelativeToolTip": "LabWork9\\EquilateralTriangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:43:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPrinter.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\IPrinter.cs",
+              "RelativeDocumentMoniker": "LabWork9\\IPrinter.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\IPrinter.cs",
+              "RelativeToolTip": "LabWork9\\IPrinter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:32:51.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\Patient.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Patient.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\Patient.cs",
+              "RelativeToolTip": "LabWork9\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:30:09.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork9\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\LabWork9\\LabWork9\\Program.cs",
+              "RelativeToolTip": "LabWork9\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T11:29:50.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Temp\ispp31\DB\DbLections\DbLibrary\bin\Debug\net8.0\DbLibrary.deps.json
+C:\Temp\ispp31\DB\DbLections\DbLibrary\bin\Debug\net8.0\DbLibrary.dll
+C:\Temp\ispp31\DB\DbLections\DbLibrary\bin\Debug\net8.0\DbLibrary.pdb
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.AssemblyReference.cache
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfoInputs.cache
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.AssemblyInfo.cs
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.csproj.CoreCompileInputs.cache
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.dll
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\refint\DbLibrary.dll
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\DbLibrary.pdb
+C:\Temp\ispp31\DB\DbLections\DbLibrary\obj\Debug\net8.0\ref\DbLibrary.dll

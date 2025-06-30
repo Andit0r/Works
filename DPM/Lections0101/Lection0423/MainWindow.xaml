@@ -1,0 +1,101 @@
+﻿<Window x:Class="Lection0423.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lection0423"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="600">
+    <StackPanel>
+        <Slider x:Name="PriceSlider"
+            Minimum="0"
+            Maximum="20"
+            TickFrequency="10"
+            TickPlacement="BottomRight"
+            ValueChanged="PriceSlider_ValueChanged"
+            />
+        
+        <Label x:Name="PriceLabel" Content="0"/>
+
+        <Calendar  x:Name="Calendar"
+            DisplayMode="Month"
+            SelectionMode="MultipleRange"
+                  
+            DisplayDateStart="04.04.2025"
+            DisplayDateEnd="05.25.2025"
+            >
+
+            <Calendar.BlackoutDates>
+                <CalendarDateRange Start="04.07.2025" End="04.10.2025"/>
+                <CalendarDateRange Start="04.17.2025" End="04.20.2025"/>
+            </Calendar.BlackoutDates>
+
+            
+        </Calendar>
+
+        <DatePicker 
+            SelectedDateFormat="Long"
+            IsDropDownOpen="False"
+            DisplayDateStart="04.04.2025"
+            DisplayDateEnd="05.25.2025"
+            
+            BorderBrush="Aqua"
+        />
+
+        <TextBlock>
+            :)
+            <LineBreak/>
+            :(
+            <Run Foreground="Lime">
+                kk
+            </Run>
+        </TextBlock>
+
+        <Label Target="{Binding ElementName=ExampleTextBox}" Content="_Логин"/>
+        <TextBox x:Name="ExampleTextBox"/>
+        <Label Target="PasswordTextBox" Content="_Пароль"/>
+        <TextBox x:Name="PasswordTextBox"/>
+
+        <TextBox 
+            x:Name="DataTextBox"
+            TextChanged="TextBox_TextChanged" 
+            Language="ru"
+            SpellCheck.IsEnabled="True"
+            Text="123"
+            Margin="5 5 5 5"
+            />
+
+        <PasswordBox x:Name="PasswordBox"
+                     Password="123"
+                     PasswordChar=""
+                     BorderBrush="BlueViolet"/>
+
+        <StackPanel Orientation="Horizontal">
+            <ToggleButton Content="Ж" Width="30" Checked="ToggleButton_Checked" Unchecked="ToggleButton_Checked"/>
+            <ToggleButton Content="К" Width="30"/>
+            <ToggleButton Content="Ч" Width="30"/>
+        </StackPanel>
+        
+        <CheckBox x:Name="AllowCheckBox" 
+                  Content="Allow" 
+                  Checked="AllowCheckBox_Checked" 
+                  Unchecked="AllowCheckBox_Checked"/>
+        
+        <GroupBox>
+            <StackPanel>
+                <StackPanel>
+                    <RadioButton/>
+                    <RadioButton/>
+                </StackPanel>
+
+                <StackPanel RadioButton.Checked="RadioButton_Checked">
+                    <RadioButton Content="123"/>
+                    <RadioButton Content="456"/>
+                    <RadioButton Content="789"/>
+                </StackPanel>
+            </StackPanel>
+        </GroupBox>
+        <Button x:Name="OkButton" Content="Ok" IsEnabled="False"/>
+
+    </StackPanel>
+</Window>

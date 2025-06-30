@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Temp\\ispp31\\DPM\\LabWork6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|c:\\temp\\ispp31\\dpm\\labwork6\\labwork6\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|c:\\temp\\ispp31\\dpm\\labwork6\\labwork6\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\methods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|c:\\temp\\ispp31\\dpm\\labwork6\\labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D70CC9-AC48-4FCB-9F0B-2EF4906465E5}|LabWork6\\LabWork6.csproj|solutionrelative:labwork6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Methods.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Methods.cs",
+              "RelativeDocumentMoniker": "LabWork6\\Methods.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Methods.cs",
+              "RelativeToolTip": "LabWork6\\Methods.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:48:16.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Patient.cs",
+              "RelativeDocumentMoniker": "LabWork6\\Patient.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Patient.cs",
+              "RelativeToolTip": "LabWork6\\Patient.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:31:49.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Program.cs",
+              "RelativeDocumentMoniker": "LabWork6\\Program.cs",
+              "ToolTip": "C:\\Temp\\ispp31\\DPM\\LabWork6\\LabWork6\\Program.cs",
+              "RelativeToolTip": "LabWork6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T05:31:25.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
